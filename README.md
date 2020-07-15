@@ -12,4 +12,3 @@ Features  include the save and load of the score-board, settings for sound and b
 ![](images/demo1.gif)
 ![](images/cover.jpg)
 ![](images/guide.jpg)
-![](images/playing.png)
